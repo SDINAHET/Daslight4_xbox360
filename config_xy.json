@@ -1,0 +1,25 @@
+{
+  "rect": {
+    "x1": 1568,
+    "y1": 502,
+    "x2": 1727,
+    "y2": 665
+  },
+  "settings": {
+    "deadzone": 0.12,
+    "expo": 1.5,
+    "invert_y": true,
+    "smooth": 0.25,
+    "autodrag": true,
+    "drag_button": "BTN_TL",
+    "enable_toggle_key": "f8",
+    "exit_key": "f12"
+  },
+  "hotkeys": {
+    "set_top_left": "f6",
+    "set_bottom_right": "f7",
+    "save_rect": "f9",
+    "load_rect": "f10",
+    "center_cursor": "f11"
+  }
+}

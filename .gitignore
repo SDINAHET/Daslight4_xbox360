@@ -1,0 +1,26 @@
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches et configs
+*.log
+*.pot
+*.mo
+
+# Outils Python
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Outils IDE
+.vscode/
+.idea/
+*.swp
