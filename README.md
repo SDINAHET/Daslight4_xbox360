@@ -15,3 +15,5 @@
 [INFO] Astuce: mets Daslight au premier plan, place la souris sur chaque coin, F6/F7, puis F9.
 [WARN] gamepad loop: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To dIIL-IIL-SAFE IS NOT RECOMMENDED.
 ```
+
+https://sourceforge.net/projects/vcxsrv/
